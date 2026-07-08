@@ -14,7 +14,7 @@ Building production-grade apps across React Native, React.js, Java/Spring Boot, 
 
 ### 🚀 About Me
 
-- 🔭 Currently building an **agritech microservices platform** (Java, Spring Boot, Apache Camel) with offline-first React Native mobile sync and AI-assisted planning services
+- ✅ Recently completed an **agritech microservices platform** (Java, Spring Boot, Apache Camel) with offline-first React Native mobile sync and AI-assisted planning services
 - 🌐 Maintaining **Conrect** — a full-stack, multi-role real estate platform with a serverless Firebase backend
 - 🎓 Pursuing a **Master of Data Analytics** at the University of Niagara Falls
 - 💼 Shipped 5+ end-to-end products across iOS, Android, and Web for legal, real estate, education, and community sectors
@@ -55,7 +55,7 @@ Building production-grade apps across React Native, React.js, Java/Spring Boot, 
 
 ### 📌 Featured Projects
 
-- **[Agricultural Operations Platform](#)** — Multi-tenant agritech platform with QR-based traceability, carbon accounting, and offline-first mobile sync
+- **[Agricultural Operations Platform](#)** *(Completed)* — Multi-tenant agritech platform with QR-based traceability, carbon accounting, and offline-first mobile sync
 - **[Conrect](https://conrect.com)** — Multi-role real estate platform with map-based search and serverless Firebase backend
 - **Atharava Vidyalaya** — Dual-app school management ecosystem for students and teachers
 - **JaiJai Shri Gokulesh** — Community app ecosystem with media streaming, e-commerce, and multilingual support
