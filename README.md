@@ -16,7 +16,7 @@ Building production-ready applications and data-driven solutions with React Nati
 ### 🚀 About Me
 
 - 💻 **Software and data professional** with **3+ years of experience** across mobile development, full-stack systems, data analytics, and cloud technologies
-- 📊 Most recently: **Data Analytics Co-op with Full-Stack Development Contributions** at **Nobel AI Legal**
+- 📊 Most recently: **Full-Stack Developer & Data Analyst Co-op** at **Nobel AI Legal**
 - ⚖️ Supported a personal-injury AI assistant using publicly available **SABS regulations, FSRA guidance and reference data, OCF forms, and Licence Appeal Tribunal decisions**
 - 🔄 Worked with **SQL, PostgreSQL, Snowflake, Apache Spark, and AWS-hosted data workflows** to prepare and validate legal-reference data for AI retrieval and analytics
 - 📱 Contributed to mobile, web, and backend functionality using **React Native, Expo, GraphQL, and related technologies**
