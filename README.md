@@ -21,7 +21,7 @@ Building production-ready applications and data-driven solutions with React Nati
 - 🔄 Worked with **SQL, PostgreSQL, Snowflake, Apache Spark, and AWS-hosted data workflows** to prepare and validate legal-reference data for AI retrieval and analytics
 - 📱 Contributed to mobile, web, and backend functionality using **React Native, Expo, GraphQL, and related technologies**
 - ✅ Built an **Agricultural Operations Platform** with an offline-first React Native app, React.js administration portal, and Java/Spring Boot microservices
-- 🌐 Built **[Conrect](https://conrect.com)**, a multi-role real estate platform with map-based search and a serverless Firebase backend
+- 🌐 Built **Conrect**, a multi-role real estate platform with map-based search and a serverless Firebase backend
 - 🎓 Completed a **Master of Data Analytics** at the University of Niagara Falls Canada in March 2026
 - ☁️ **AWS Certified Cloud Practitioner**
 - 📍 Niagara Falls, Ontario · **[manavparikh198@gmail.com](mailto:manavparikh198@gmail.com)**
@@ -102,7 +102,7 @@ Building production-ready applications and data-driven solutions with React Nati
 ### 📱 Software Projects
 
 - **Agricultural Operations Platform** — Multi-tenant agritech platform with React Native offline-first synchronization, a React.js administration portal, and Java/Spring Boot and Apache Camel microservices; includes QR traceability, carbon accounting, and AI-assisted planning
-- **[Conrect](https://conrect.com)** — Multi-role real estate platform with Leaflet map search, a serverless Firebase backend, and Playwright end-to-end testing
+- **Conrect** — Multi-role real estate platform with Leaflet map search, a serverless Firebase backend, and Playwright end-to-end testing
 - **Atharava Vidyalaya** — Dual-app React Native school-management ecosystem for students and teachers using Firebase Authentication, Firestore, and Firebase Cloud Messaging
 - **Jai Jai Shri Gokulesh** — Dual-app community ecosystem with media streaming, e-commerce, multilingual support in English, Hindi, and Gujarati, and Firebase push notifications
 
